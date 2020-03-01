@@ -1,3 +1,16 @@
+## 题目
+
+使用队列实现栈的下列操作：
+
+* push(x) -- 元素 x 入栈
+* pop() -- 移除栈顶元素
+* top() -- 获取栈顶元素
+* empty() -- 返回栈是否为空
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/implement-stack-using-queues
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
 ## 解题思路
 
 ### 初始化
